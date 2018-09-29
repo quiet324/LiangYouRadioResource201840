@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180624",
-		"title": "静夜亮光：人子在地上，有赦罪的权柄；不再孤独走一生：有效的加深你与神的亲密关系",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180624.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/ee20180624/ee/ee180624.mp3",
-		"id": 29180624
-	},
-	{
 		"time": "20180625",
 		"title": "静夜亮光：这病不至于死；不再孤独走一生：他们举目不见一人，只见耶稣",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180625.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/ee20180929/ee/ee180929.mp3",
 		"id": 29180929
+	},
+	{
+		"time": "20180930",
+		"title": "智慧语录：唯独人类才能爱与被爱；神的叮咛我最爱：信仰的真伪面",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180930.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ee20180930/ee/ee180930.mp3",
+		"id": 29180930
 	}
 ]
