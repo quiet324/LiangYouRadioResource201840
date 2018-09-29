@@ -1,0 +1,32 @@
+{
+  "name": "x-ray-demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.0",
+    "cos-nodejs-sdk-v5": "^2.0.20",
+    "dateformat": "^2.0.0",
+    "deasync": "^0.1.11",
+    "download": "^6.0.0",
+    "download-file-sync": "^1.0.4",
+    "github": "^9.2.0",
+    "github-api": "^3.0.0",
+    "lodash": "^4.17.4",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.18.1",
+    "moment-timezone": "^0.5.13",
+    "node-schedule": "^1.2.1",
+    "octokat": "^0.8.0",
+    "octonode": "^0.7.12",
+    "qiniu": "^7.1.1",
+    "shelljs": "^0.7.7",
+    "x-ray": "^2.3.2"
+  }
+}
