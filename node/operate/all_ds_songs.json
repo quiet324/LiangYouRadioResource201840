@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180624",
-		"title": "良院讲台：爱邻舍如同爱自己（路10:25-37；讲员：陈安）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180624.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/ds20180624/ds/ds180624.mp3",
-		"id": 46180624
-	},
-	{
 		"time": "20180625",
 		"title": "良院专区：介绍良友学院APP更新版；公布《旧约历史书II》和《神学思考法》考题",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180625.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/ds20180929/ds/ds180929.mp3",
 		"id": 46180929
+	},
+	{
+		"time": "20180930",
+		"title": "良院讲台：耶稣的受洗（太3:7-17；讲员：罗文辉）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180930.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ds20180930/ds/ds180930.mp3",
+		"id": 46180930
 	}
 ]
