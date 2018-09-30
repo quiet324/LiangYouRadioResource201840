@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180622",
-		"title": "黑暗中的舞者：第六章、美妙的手",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180622.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201825/bc20180622/bc/bc180622.mp3",
-		"id": 10180622
-	},
-	{
 		"time": "20180625",
 		"title": "信心日引：真门徒（约8:31）；乐在敬拜的生活：第十一章、神的创造如何教导我们赞美",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180625.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/bc20180928/bc/bc180928.mp3",
 		"id": 10180928
+	},
+	{
+		"time": "20181001",
+		"title": "信心日引：享受你所拥有的（传6:9）；俗世圣徒：第五章、友谊-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181001.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/bc20181001/bc/bc181001.mp3",
+		"id": 10181001
 	}
 ]
