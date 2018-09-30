@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180622",
-		"title": "神认识我──佳祈的故事（上）",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180622.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201825/gn20180622/gn/gn180622.mp3",
-		"id": 22180622
-	},
-	{
 		"time": "20180625",
 		"title": "神认识我──佳祈的故事（下）",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180625.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/gn20180928/gn/gn180928.mp3",
 		"id": 22180928
+	},
+	{
+		"time": "20181001",
+		"title": "光明之子（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181001.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/gn20181001/gn/gn181001.mp3",
+		"id": 22181001
 	}
 ]
