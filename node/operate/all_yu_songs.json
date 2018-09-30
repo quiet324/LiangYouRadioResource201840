@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180625",
-		"title": "绝妙一周乐：依靠",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180625.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/yu20180625/yu/yu180625.mp3",
-		"id": 7180625
-	},
-	{
 		"time": "20180626",
 		"title": "绝妙生活系列：财富（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180626.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/yu20180930/yu/yu180930.mp3",
 		"id": 7180930
+	},
+	{
+		"time": "20181001",
+		"title": "绝妙一周乐：爱赐人希望",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181001.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/yu20181001/yu/yu181001.mp3",
+		"id": 7181001
 	}
 ]
