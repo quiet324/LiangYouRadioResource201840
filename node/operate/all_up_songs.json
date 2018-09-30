@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180622",
-		"title": "男人的天空（第二季）（5）健康的切断对母亲的依赖（上）",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180622.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201825/up20180622/up/up180622.mp3",
-		"id": 20180622
-	},
-	{
 		"time": "20180625",
 		"title": "男人的天空（第二季）（6）健康的切断对母亲的依赖（下）",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180625.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/up20180928/up/up180928.mp3",
 		"id": 20180928
+	},
+	{
+		"time": "20181001",
+		"title": "让青春风暴变成青春风采（9岁-12岁）（4）孩子的黄金时间；与父母促膝谈：新的态度",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181001.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/up20181001/up/up181001.mp3",
+		"id": 20181001
 	}
 ]
