@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180625",
-		"title": "神必预备（诗105:37-45）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180625.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/mw20180625/mw/mw180625.mp3",
-		"id": 30180625
-	},
-	{
 		"time": "20180626",
 		"title": "能力之源（徒13:1-12）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180626.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/mw20180930/mw/mw180930.mp3",
 		"id": 30180930
+	},
+	{
+		"time": "20181001",
+		"title": "刺人的荆棘（林后12:1-10）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181001.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/mw20181001/mw/mw181001.mp3",
+		"id": 30181001
 	}
 ]
