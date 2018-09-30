@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180625",
-		"title": "静夜亮光：这病不至于死；不再孤独走一生：他们举目不见一人，只见耶稣",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180625.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/ee20180625/ee/ee180625.mp3",
-		"id": 29180625
-	},
-	{
 		"time": "20180626",
 		"title": "静夜亮光：那使人绊倒的人有祸了；不再孤独走一生：每天当你一觉醒来，首先你会想到什么呢？",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180626.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ee20180930/ee/ee180930.mp3",
 		"id": 29180930
+	},
+	{
+		"time": "20181001",
+		"title": "智慧语录：长进都是从苦难中得来的；寻找生命的真光：不被套路的人生",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181001.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ee20181001/ee/ee181001.mp3",
+		"id": 29181001
 	}
 ]
