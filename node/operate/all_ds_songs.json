@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180625",
-		"title": "良院专区：介绍良友学院APP更新版；公布《旧约历史书II》和《神学思考法》考题",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180625.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/ds20180625/ds/ds180625.mp3",
-		"id": 46180625
-	},
-	{
 		"time": "20180626",
 		"title": "教牧新视野：事奉耗尽之现象（主持：姚谦、杨天成）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180626.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ds20180930/ds/ds180930.mp3",
 		"id": 46180930
+	},
+	{
+		"time": "20181001",
+		"title": "良院专区：访问万峰老师；公布9月17日至18日 “向老师致敬”答案；公布《保罗书信II》、《罗马书》考题",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181001.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ds20181001/ds/ds181001.mp3",
+		"id": 46181001
 	}
 ]
