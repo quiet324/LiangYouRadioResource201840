@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180622",
-		"title": "母子两地书：在人和人的关联中学习建造自己和他人──每一个生活环境里的人都是与自己的生命有关联的，他人身上的阳光、阴暗都可能会影响我们，但我们可以选择性吸收，用坦荡、包容、喜乐的心发出善意，必能建立自己并建造他人。",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im180622.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201825/im20180622/im/im180622.mp3",
-		"id": 14180622
-	},
-	{
 		"time": "20180625",
 		"title": "心磁场大平台：在孤儿院作志愿者的日子──这个年轻的中国女孩为梦想驱使，去非洲孤儿院支教。她在那个贫穷的小渔村收获了很多感动，以至做了两年半志愿者的她，爱上了那里和那里的孩子们……",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im180625.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201839/im20180928/im/im180928.mp3",
 		"id": 14180928
+	},
+	{
+		"time": "20181001",
+		"title": "信仰大擂台：神的创造之进化论与创造论带来的不同影响──无神论的教育告诉我们人是进化来的，创造论认为天地万物都是神创造的，而无论是进化论还是创造论，都无法通过实验室的证据来证明，并且很多事物都无法从实验室里证明出来。但无论接受哪一个观点，其实都需要信心。",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im181001.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/im20181001/im/im181001.mp3",
+		"id": 14181001
 	}
 ]
