@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180714",
-		"title": "乐哉家庭：真儿子、真父亲（3）（王帆牧师）",
-		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc180714.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 15,
-		"artistName": "空中辅导",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/cc20180714/cc/cc180714.mp3",
-		"id": 15180714
-	},
-	{
 		"time": "20180715",
 		"title": "心存主道：自有永有（张道明老师）",
 		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc180715.mp3",
@@ -944,5 +933,16 @@
 		"artistName": "空中辅导",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/cc20180929/cc/cc180929.mp3",
 		"id": 15180929
+	},
+	{
+		"time": "20181001",
+		"title": "每周辅导教室：化解怒气（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc181001.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 15,
+		"artistName": "空中辅导",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/cc20181001/cc/cc181001.mp3",
+		"id": 15181001
 	}
 ]
