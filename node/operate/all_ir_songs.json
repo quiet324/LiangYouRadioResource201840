@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180627",
-		"title": "节目推介：《空中辅导》、《真道分解》；赵群心语：良友电台的经费和人力资源现况如何？回应留言：电话尾号2786听众",
-		"downUrl": "http://txly2.net/ly/audio/2018/ir/ir180627.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 12,
-		"artistName": "i-Radio爱广播",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/ir20180627/ir/ir180627.mp3",
-		"id": 12180627
-	},
-	{
 		"time": "20180628",
 		"title": "节目推介：《微播出炉》、《爆米花》；我们是好夥伴：江苏王姊妹",
 		"downUrl": "http://txly2.net/ly/audio/2018/ir/ir180628.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "i-Radio爱广播",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ir20181001/ir/ir181001.mp3",
 		"id": 12181001
+	},
+	{
+		"time": "20181002",
+		"title": "节目推介：《真道分解》、《无限飞行号》；我们是好夥伴：安徽杨姊妹",
+		"downUrl": "http://txly2.net/ly/audio/2018/ir/ir181002.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 12,
+		"artistName": "i-Radio爱广播",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ir20181002/ir/ir181002.mp3",
+		"id": 12181002
 	}
 ]
