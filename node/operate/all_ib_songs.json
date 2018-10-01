@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180626",
-		"title": "给你，我的歌：《只要快乐》；杏林子手记《一生的承诺》（15）（主持：罗文辉）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ib/ib180626.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 16,
-		"artistName": "无限飞行号",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/ib20180626/ib/ib180626.mp3",
-		"id": 16180626
-	},
-	{
 		"time": "20180627",
 		"title": "健康小贴士：健康三字经（主持：罗文辉、刘佳音）；飞行号医馆：连线问诊──许医师关心你的健康（嘉宾：许医师）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ib/ib180627.mp3",
@@ -1009,5 +998,16 @@
 		"artistName": "无限飞行号",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ib20181001/ib/ib181001.mp3",
 		"id": 16181001
+	},
+	{
+		"time": "20181002",
+		"title": "给你，我的歌：《你来自何方？》；安徽小子（1）乱世浮生（主持：罗文辉）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ib/ib181002.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 16,
+		"artistName": "无限飞行号",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ib20181002/ib/ib181002.mp3",
+		"id": 16181002
 	}
 ]
