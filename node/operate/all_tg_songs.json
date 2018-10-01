@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180625",
-		"title": "同心祷告；代祷时刻",
-		"downUrl": "http://txly2.net/ly/audio/2018/tg/tg180625.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 26,
-		"artistName": "施恩座前",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/tg20180625/tg/tg180625.mp3",
-		"id": 26180625
-	},
-	{
 		"time": "20180626",
 		"title": "同心祷告；代祷时刻",
 		"downUrl": "http://txly2.net/ly/audio/2018/tg/tg180626.mp3",
@@ -1021,5 +1010,16 @@
 		"artistName": "施恩座前",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/tg20181001/tg/tg181001.mp3",
 		"id": 26181001
+	},
+	{
+		"time": "20181002",
+		"title": "有主在我心；代祷时刻",
+		"downUrl": "http://txly2.net/ly/audio/2018/tg/tg181002.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 26,
+		"artistName": "施恩座前",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/tg20181002/tg/tg181002.mp3",
+		"id": 26181002
 	}
 ]
