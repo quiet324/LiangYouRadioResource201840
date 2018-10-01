@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180625",
-		"title": "生命之歌：灵魂搅拌器《站在我身边，天父》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180625.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/cw20180625/cw/cw180625.mp3",
-		"id": 51180625
-	},
-	{
 		"time": "20180626",
 		"title": "弹指之间：《你的爱》、《我宁愿有耶稣》、《全然为你》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180626.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/cw20181001/cw/cw181001.mp3",
 		"id": 51181001
+	},
+	{
+		"time": "20181002",
+		"title": "弹指之间：《主你是我力量》、《坚固保障》、《主你永远与我同在》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181002.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/cw20181002/cw/cw181002.mp3",
+		"id": 51181002
 	}
 ]
