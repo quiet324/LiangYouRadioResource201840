@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180625",
-		"title": "金句：万物的结局近了。所以，你们要谨慎自守，警醒祷告。最要紧的是彼此切实相爱，因为爱能遮掩许多的罪。（彼前4:7-8）",
-		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr180625.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 52,
-		"artistName": "彩虹桥",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/tr20180625/tr/tr180625.mp3",
-		"id": 52180625
-	},
-	{
 		"time": "20180626",
 		"title": "荒漠甘泉乐侣：《主活着》",
 		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr180626.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "彩虹桥",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/tr20181001/tr/tr181001.mp3",
 		"id": 52181001
+	},
+	{
+		"time": "20181002",
+		"title": "荒漠甘泉乐侣：《与主相亲》",
+		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr181002.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 52,
+		"artistName": "彩虹桥",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/tr20181002/tr/tr181002.mp3",
+		"id": 52181002
 	}
 ]
