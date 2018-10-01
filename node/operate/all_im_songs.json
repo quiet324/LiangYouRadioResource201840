@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180625",
-		"title": "心磁场大平台：在孤儿院作志愿者的日子──这个年轻的中国女孩为梦想驱使，去非洲孤儿院支教。她在那个贫穷的小渔村收获了很多感动，以至做了两年半志愿者的她，爱上了那里和那里的孩子们……",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im180625.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/im20180625/im/im180625.mp3",
-		"id": 14180625
-	},
-	{
 		"time": "20180626",
 		"title": "曼曼成长记：让孩子从小爱上阅读──一个小学生不仅可以欣赏背诵象《长恨歌》之类的长篇大论的古诗文，还能阅读欣赏世界名著，且已阅读多达几十本国外经典小说……如此强大的读书能力是如何培养的呢？要知道，从小喜欢上阅读，可是终生受益的习惯哪。",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im180626.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/im20181001/im/im181001.mp3",
 		"id": 14181001
+	},
+	{
+		"time": "20181002",
+		"title": "信仰大擂台：神的创造之从接纳人到接纳神──他在书城偶遇一个陌生人（基督徒），由此他得到一本圣经，认识了一群很特别的人，他们的喜乐、平和、亲切、温暖都吸引他一步步靠近，结果他从中找到了真相──神！",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im181002.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/im20181002/im/im181002.mp3",
+		"id": 14181002
 	}
 ]
