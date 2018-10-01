@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180625",
-		"title": "情感交流站：孤单时刻",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180625.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/ut20180625/ut/ut180625.mp3",
-		"id": 18180625
-	},
-	{
 		"time": "20180626",
 		"title": "为神建立家室：中保",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180626.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ut20181001/ut/ut181001.mp3",
 		"id": 18181001
+	},
+	{
+		"time": "20181002",
+		"title": "为神建立家室：服侍人的君王",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181002.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ut20181002/ut/ut181002.mp3",
+		"id": 18181002
 	}
 ]
