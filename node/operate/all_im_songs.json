@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180626",
-		"title": "曼曼成长记：让孩子从小爱上阅读──一个小学生不仅可以欣赏背诵象《长恨歌》之类的长篇大论的古诗文，还能阅读欣赏世界名著，且已阅读多达几十本国外经典小说……如此强大的读书能力是如何培养的呢？要知道，从小喜欢上阅读，可是终生受益的习惯哪。",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im180626.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/im20180626/im/im180626.mp3",
-		"id": 14180626
-	},
-	{
 		"time": "20180627",
 		"title": "太太空间：我所经历的抑郁症（2）──她生了三个孩子。从生第一个孩子后就患上产后抑郁，在接下来的两次宫外孕，房屋失火，又两次生孩子……种种不顺的经历中，她的抑郁症频频反复发作，多次去看医生，但最终她也没遵医嘱吃药，那么，她的抑郁症是如何自愈的呢？",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im180627.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/im20181002/im/im181002.mp3",
 		"id": 14181002
+	},
+	{
+		"time": "20181003",
+		"title": "信仰大擂台：神的创造之敬畏之心──如此有规律的浩瀚宇宙，大自然的奇妙，人内心深处对人生意义与永恒生命的追求，都让人无法回避有一位创造主的存在，人需要跳出进化论这个先入为主的观念，重新审视与思考创造论是否迷信。因为事实上，要接受进化论需要更大的信心！人在面对天、地、大自然、人体与心灵，若心存敬畏，必能明白神的奇妙创造。",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im181003.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/im20181003/im/im181003.mp3",
+		"id": 14181003
 	}
 ]
