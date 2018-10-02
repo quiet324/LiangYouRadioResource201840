@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180627",
-		"title": "晨曦交流站：卢文牧师和文惠与你探讨听众所关注的教会问题",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180627.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/ds20180627/ds/ds180627.mp3",
-		"id": 46180627
-	},
-	{
 		"time": "20180628",
 		"title": "宣教心之路：关心少数民族──维吾尔族（主持：姚谦、杨天成）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180628.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ds20181002/ds/ds181002.mp3",
 		"id": 46181002
+	},
+	{
+		"time": "20181003",
+		"title": "晨曦交流站：卢文牧师和林诚与你探讨听众所关注的教会问题",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181003.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ds20181003/ds/ds181003.mp3",
+		"id": 46181003
 	}
 ]
