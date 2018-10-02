@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180627",
-		"title": "静夜亮光：我们若在光明中行，如同神在光明中；不再孤独走一生：常常祷告，不可灰心",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180627.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/ee20180627/ee/ee180627.mp3",
-		"id": 29180627
-	},
-	{
 		"time": "20180628",
 		"title": "静夜亮光：波涛汹涌的海浪对我们说：这里不是我们安息的地方；不再孤独走一生：当你无路可走时，要跪下祷告",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180628.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ee20181002/ee/ee181002.mp3",
 		"id": 29181002
+	},
+	{
+		"time": "20181003",
+		"title": "智慧语录：人算什么，你竟眷顾他？诗情细语话人生：诗篇的心灵之约（17）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181003.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ee20181003/ee/ee181003.mp3",
+		"id": 29181003
 	}
 ]
