@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180626",
-		"title": "弹指之间：《你的爱》、《我宁愿有耶稣》、《全然为你》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180626.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/cw20180626/cw/cw180626.mp3",
-		"id": 51180626
-	},
-	{
 		"time": "20180627",
 		"title": "心歌心曲：孙越特辑",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180627.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/cw20181002/cw/cw181002.mp3",
 		"id": 51181002
+	},
+	{
+		"time": "20181003",
+		"title": "心歌心曲：劳伦戴格尔《抬头看孩子》、《一切》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181003.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/cw20181003/cw/cw181003.mp3",
+		"id": 51181003
 	}
 ]
