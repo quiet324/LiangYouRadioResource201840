@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180626",
-		"title": "男人的天空（第二季）（7）孤身上路的伤口（上）",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180626.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/up20180626/up/up180626.mp3",
-		"id": 20180626
-	},
-	{
 		"time": "20180627",
 		"title": "男人的天空（第二季）（8）孤身上路的伤口（下）",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180627.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/up20181002/up/up181002.mp3",
 		"id": 20181002
+	},
+	{
+		"time": "20181003",
+		"title": "亲情儿童房：快乐教养实践77招儿──管教三步骤；与父母促膝谈：谁捡到就是谁的",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181003.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/up20181003/up/up181003.mp3",
+		"id": 20181003
 	}
 ]
