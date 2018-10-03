@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180627",
-		"title": "信心日引：我们都是神的儿女（加3:26）；乐在敬拜的生活：第十二章、在当下敬拜活出未来-2",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180627.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/bc20180627/bc/bc180627.mp3",
-		"id": 10180627
-	},
-	{
 		"time": "20180628",
 		"title": "信心日引：真基督徒与假基督徒（约1:47）；乐在敬拜的生活：第十二章、在当下敬拜活出未来-3",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180628.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/bc20181003/bc/bc181003.mp3",
 		"id": 10181003
+	},
+	{
+		"time": "20181004",
+		"title": "信心日引：重生与善行（约3:3）；俗世圣徒：第六章、圣所-2",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181004.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/bc20181004/bc/bc181004.mp3",
+		"id": 10181004
 	}
 ]
