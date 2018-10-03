@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180627",
-		"title": "大卫的热切与际遇系列：新王在同一位主前登基（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180627.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 42,
-		"artistName": "生活之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/iv20180627/iv/iv180627.mp3",
-		"id": 42180627
-	},
-	{
 		"time": "20180628",
 		"title": "大卫的热切与际遇系列：大卫和约柜（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180628.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "生活之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/iv20181003/iv/iv181003.mp3",
 		"id": 42181003
+	},
+	{
+		"time": "20181004",
+		"title": "'乐捐系列：金钱管理的永恒原则（2）",
+		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv181004.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 42,
+		"artistName": "生活之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/iv20181004/iv/iv181004.mp3",
+		"id": 42181004
 	}
 ]
