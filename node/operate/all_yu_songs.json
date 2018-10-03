@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180628",
-		"title": "绝妙热话题：梦里知多少",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180628.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/yu20180628/yu/yu180628.mp3",
-		"id": 7180628
-	},
-	{
 		"time": "20180629",
 		"title": "绝妙小剧场：一起看电影",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180629.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/yu20181003/yu/yu181003.mp3",
 		"id": 7181003
+	},
+	{
+		"time": "20181004",
+		"title": "绝妙热话题：迪士尼动画电影",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181004.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/yu20181004/yu/yu181004.mp3",
+		"id": 7181004
 	}
 ]
