@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180628",
-		"title": "快乐是得胜心灵的成果（来11:35-12:4）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180628.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/mw20180628/mw/mw180628.mp3",
-		"id": 30180628
-	},
-	{
 		"time": "20180629",
 		"title": "要常常不灰心的祷告（路18:1-8）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180629.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/mw20181003/mw/mw181003.mp3",
 		"id": 30181003
+	},
+	{
+		"time": "20181004",
+		"title": "在神手中（林前1:25-31）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181004.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/mw20181004/mw/mw181004.mp3",
+		"id": 30181004
 	}
 ]
