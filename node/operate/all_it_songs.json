@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180627",
-		"title": "影响的核心（2）",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it180627.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/it20180627/it/it180627.mp3",
-		"id": 41180627
-	},
-	{
 		"time": "20180628",
 		"title": "活的见证",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it180628.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/it20181003/it/it181003.mp3",
 		"id": 41181003
+	},
+	{
+		"time": "20181004",
+		"title": "作仆人的秘诀",
+		"downUrl": "http://txly2.net/ly/audio/2018/it/it181004.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/it20181004/it/it181004.mp3",
+		"id": 41181004
 	}
 ]
