@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180627",
-		"title": "男人的天空（第二季）（8）孤身上路的伤口（下）",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180627.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/up20180627/up/up180627.mp3",
-		"id": 20180627
-	},
-	{
 		"time": "20180628",
 		"title": "家庭敬拜：灵风牧师讲道专辑──如何与神同行（上）",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180628.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/up20181003/up/up181003.mp3",
 		"id": 20181003
+	},
+	{
+		"time": "20181004",
+		"title": "亲情健身房：夫妻同心互动健身（4）温柔互动，练习拉伸腿部；与父母促膝谈：服侍一个主",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181004.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/up20181004/up/up181004.mp3",
+		"id": 20181004
 	}
 ]
