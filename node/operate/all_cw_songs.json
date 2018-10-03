@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180627",
-		"title": "心歌心曲：孙越特辑",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180627.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/cw20180627/cw/cw180627.mp3",
-		"id": 51180627
-	},
-	{
 		"time": "20180628",
 		"title": "来吧赞美：《奔向爱我的神》、《彼此相爱》、《自耶稣来住在我心》、《活出爱》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180628.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/cw20181003/cw/cw181003.mp3",
 		"id": 51181003
+	},
+	{
+		"time": "20181004",
+		"title": "来吧赞美：《满有能力》、《我宁愿有耶稣》、《更新我心意》、《我一点不怀疑你能力》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181004.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/cw20181004/cw/cw181004.mp3",
+		"id": 51181004
 	}
 ]
