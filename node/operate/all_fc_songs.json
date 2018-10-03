@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180627",
-		"title": "白领上班族，才是社会底层！",
-		"downUrl": "http://txly2.net/ly/audio/2018/fc/fc180627.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 6,
-		"artistName": "微播出炉",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/fc20180627/fc/fc180627.mp3",
-		"id": 6180627
-	},
-	{
 		"time": "20180628",
 		"title": "不想升职之迷",
 		"downUrl": "http://txly2.net/ly/audio/2018/fc/fc180628.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "微播出炉",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/fc20181003/fc/fc181003.mp3",
 		"id": 6181003
+	},
+	{
+		"time": "20181004",
+		"title": "小生美男何其多？限娘令：我虽然外表精致漂亮，心中可是个爷们！",
+		"downUrl": "http://txly2.net/ly/audio/2018/fc/fc181004.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 6,
+		"artistName": "微播出炉",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/fc20181004/fc/fc181004.mp3",
+		"id": 6181004
 	}
 ]
