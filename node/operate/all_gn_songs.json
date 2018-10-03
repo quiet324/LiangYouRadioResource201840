@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180627",
-		"title": "迷失的路羊──阮颖真的故事（下）",
-		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180627.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 22,
-		"artistName": "现代人的希望",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/gn20180627/gn/gn180627.mp3",
-		"id": 22180627
-	},
-	{
 		"time": "20180628",
 		"title": "生命之歌",
 		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn180628.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "现代人的希望",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/gn20181003/gn/gn181003.mp3",
 		"id": 22181003
+	},
+	{
+		"time": "20181004",
+		"title": "回到神的家（回家之路）",
+		"downUrl": "http://txly2.net/ly/audio/2018/gn/gn181004.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 22,
+		"artistName": "现代人的希望",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/gn20181004/gn/gn181004.mp3",
+		"id": 22181004
 	}
 ]
