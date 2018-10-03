@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180627",
-		"title": "启示录七间教会系列：推雅推喇（3）",
-		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180627.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 44,
-		"artistName": "接棒人",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/pb20180627/pb/pb180627.mp3",
-		"id": 44180627
-	},
-	{
 		"time": "20180628",
 		"title": "启示录七间教会系列：推雅推喇（4）",
 		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180628.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "接棒人",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/pb20181003/pb/pb181003.mp3",
 		"id": 44181003
+	},
+	{
+		"time": "20181004",
+		"title": "灵命进深系列：十字架的道路（4）",
+		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb181004.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 44,
+		"artistName": "接棒人",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/pb20181004/pb/pb181004.mp3",
+		"id": 44181004
 	}
 ]
