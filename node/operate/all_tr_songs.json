@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180627",
-		"title": "诗歌欣赏：《仰望》、《我要倚靠你》、《祷告等候》",
-		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr180627.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 52,
-		"artistName": "彩虹桥",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/tr20180627/tr/tr180627.mp3",
-		"id": 52180627
-	},
-	{
 		"time": "20180628",
 		"title": "诗歌欣赏：《活得更好》、《耶稣在我里面》、《这一生最美的祝福》",
 		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr180628.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "彩虹桥",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/tr20181003/tr/tr181003.mp3",
 		"id": 52181003
+	},
+	{
+		"time": "20181004",
+		"title": "诗歌欣赏：《祂必然成全》、《一颗谦卑的心》、《谦卑》、《转回》",
+		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr181004.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 52,
+		"artistName": "彩虹桥",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/tr20181004/tr/tr181004.mp3",
+		"id": 52181004
 	}
 ]
