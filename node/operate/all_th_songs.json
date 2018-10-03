@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180628",
-		"title": "亞伯兰娶夏甲为妾（2）（创16:4-6）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th180628.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/th20180628/th/th180628.mp3",
-		"id": 32180628
-	},
-	{
 		"time": "20180629",
 		"title": "人子救主满有怜悯（1）（路7:1-10）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th180629.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/th20181003/th/th181003.mp3",
 		"id": 32181003
+	},
+	{
+		"time": "20181004",
+		"title": "雅各离家出走（3）（创28:10-15）",
+		"downUrl": "http://txly2.net/ly/audio/2018/th/th181004.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/th20181004/th/th181004.mp3",
+		"id": 32181004
 	}
 ]
