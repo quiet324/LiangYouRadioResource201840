@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180628",
-		"title": "雨中漫舞；祷告中的恩典；读心书：人生的指南──《这个主意真好！》",
-		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf180628.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 58,
-		"artistName": "爱在人间（云南话）",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/ynf20180628/ynf/ynf180628.mp3",
-		"id": 58180628
-	},
-	{
 		"time": "20180629",
 		"title": "心火故事：属灵伟人蔡苏娟女士的个人自述传奇传记──《暗室之后续篇》第24章“ 干妈的手”（下）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf180629.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "爱在人间（云南话）",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ynf20181003/ynf/ynf181003.mp3",
 		"id": 58181003
+	},
+	{
+		"time": "20181004",
+		"title": "雨中漫舞；祷告中的恩典；圣经词汇",
+		"downUrl": "http://txly2.net/ly/audio/2018/ynf/ynf181004.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 58,
+		"artistName": "爱在人间（云南话）",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ynf20181004/ynf/ynf181004.mp3",
+		"id": 58181004
 	}
 ]
