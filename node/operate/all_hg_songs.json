@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180627",
-		"title": "方舟探险趣：团结小蚂蚁",
-		"downUrl": "http://txly2.net/ly/audio/2018/hg/hg180627.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 2,
-		"artistName": "欢乐卡恰碰",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/hg20180627/hg/hg180627.mp3",
-		"id": 2180627
-	},
-	{
 		"time": "20180628",
 		"title": "树墩子学校：不不蚂蚁的恐高症",
 		"downUrl": "http://txly2.net/ly/audio/2018/hg/hg180628.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "欢乐卡恰碰",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/hg20181003/hg/hg181003.mp3",
 		"id": 2181003
+	},
+	{
+		"time": "20181004",
+		"title": "优格菇菇村：专注草莓",
+		"downUrl": "http://txly2.net/ly/audio/2018/hg/hg181004.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 2,
+		"artistName": "欢乐卡恰碰",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/hg20181004/hg/hg181004.mp3",
+		"id": 2181004
 	}
 ]
