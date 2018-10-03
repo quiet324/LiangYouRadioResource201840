@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180628",
-		"title": "宣教心之路：关心少数民族──维吾尔族（主持：姚谦、杨天成）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180628.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/ds20180628/ds/ds180628.mp3",
-		"id": 46180628
-	},
-	{
 		"time": "20180629",
 		"title": "从布道到培训：牧者临别赠言（主持：卢文、周虹）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180629.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ds20181003/ds/ds181003.mp3",
 		"id": 46181003
+	},
+	{
+		"time": "20181004",
+		"title": "宣教心之路：如何装备宣教士（主持：姚谦、林诚）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181004.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ds20181004/ds/ds181004.mp3",
+		"id": 46181004
 	}
 ]
