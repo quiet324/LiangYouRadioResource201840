@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180628",
-		"title": "活的见证",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it180628.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/it20180628/it/it180628.mp3",
-		"id": 41180628
-	},
-	{
 		"time": "20180629",
 		"title": "小心听从谁",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it180629.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/it20181004/it/it181004.mp3",
 		"id": 41181004
+	},
+	{
+		"time": "20181005",
+		"title": "服事的奖赏",
+		"downUrl": "http://txly2.net/ly/audio/2018/it/it181005.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/it20181005/it/it181005.mp3",
+		"id": 41181005
 	}
 ]
