@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180628",
-		"title": "来吧赞美：《奔向爱我的神》、《彼此相爱》、《自耶稣来住在我心》、《活出爱》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180628.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/cw20180628/cw/cw180628.mp3",
-		"id": 51180628
-	},
-	{
 		"time": "20180629",
 		"title": "赞美旋律：海顿《告别交响曲》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180629.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/cw20181004/cw/cw181004.mp3",
 		"id": 51181004
+	},
+	{
+		"time": "20181005",
+		"title": "赞美旋律：巴赫b小调弥撒曲之《荣耀颂》（后段）",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181005.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/cw20181005/cw/cw181005.mp3",
+		"id": 51181005
 	}
 ]
