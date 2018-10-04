@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180628",
-		"title": "大卫的热切与际遇系列：大卫和约柜（1）",
-		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180628.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 42,
-		"artistName": "生活之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/iv20180628/iv/iv180628.mp3",
-		"id": 42180628
-	},
-	{
 		"time": "20180629",
 		"title": "大卫的热切与际遇系列：大卫和约柜（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180629.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "生活之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/iv20181004/iv/iv181004.mp3",
 		"id": 42181004
+	},
+	{
+		"time": "20181005",
+		"title": "'乐捐系列：金钱管理的永恒原则（3）",
+		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv181005.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 42,
+		"artistName": "生活之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/iv20181005/iv/iv181005.mp3",
+		"id": 42181005
 	}
 ]
