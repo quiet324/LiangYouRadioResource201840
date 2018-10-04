@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180629",
-		"title": "静夜亮光：我向你陈明我的罪，不隐瞒我的恶；不再孤独走一生：在人显着的失败中，神得着最完全的胜利",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180629.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/ee20180629/ee/ee180629.mp3",
-		"id": 29180629
-	},
-	{
 		"time": "20180630",
 		"title": "静夜亮光：不要把我的灵魂，和罪人一同除掉；不再孤独走一生：当马利亚来到耶稣的脚前、只要你说一句话",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180630.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ee20181004/ee/ee181004.mp3",
 		"id": 29181004
+	},
+	{
+		"time": "20181005",
+		"title": "智慧语录：一个认识神的人；亮丽人生不是梦：小单的探险笔记——我很喜欢我自己独一无二的美丽",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181005.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ee20181005/ee/ee181005.mp3",
+		"id": 29181005
 	}
 ]
