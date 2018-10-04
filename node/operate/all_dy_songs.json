@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180627",
-		"title": "好得无比，每一天：孤独囹圄（诗68:6）；建立生命的基石（5）（主持：刘芳）；我爱背金句：彼前4:7-8",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180627.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/dy20180627/dy/dy180627.mp3",
-		"id": 24180627
-	},
-	{
 		"time": "20180628",
 		"title": "好得无比，每一天：孤单疗方（来13:5）；教会的种子（5）（主持：万峰）；我爱背金句：彼前4:7-8",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180628.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/dy20181003/dy/dy181003.mp3",
 		"id": 24181003
+	},
+	{
+		"time": "20181004",
+		"title": "好得无比，每一天：向上帝歌唱（诗95:1-2）；耶稣生平广播剧：与耶稣相遇的十个故事（9）抹大拉马利亚；我爱背金句：提前2:1-2",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181004.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/dy20181004/dy/dy181004.mp3",
+		"id": 24181004
 	}
 ]
