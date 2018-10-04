@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180628",
-		"title": "不想升职之迷",
-		"downUrl": "http://txly2.net/ly/audio/2018/fc/fc180628.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 6,
-		"artistName": "微播出炉",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/fc20180628/fc/fc180628.mp3",
-		"id": 6180628
-	},
-	{
 		"time": "20180629",
 		"title": "合租集体宿舍：如何面试一位好室友？",
 		"downUrl": "http://txly2.net/ly/audio/2018/fc/fc180629.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "微播出炉",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/fc20181004/fc/fc181004.mp3",
 		"id": 6181004
+	},
+	{
+		"time": "20181005",
+		"title": "二十一天莫生气，原来是一个无比艰难的试练……",
+		"downUrl": "http://txly2.net/ly/audio/2018/fc/fc181005.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 6,
+		"artistName": "微播出炉",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/fc20181005/fc/fc181005.mp3",
+		"id": 6181005
 	}
 ]
