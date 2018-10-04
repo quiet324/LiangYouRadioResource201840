@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180628",
-		"title": "信心日引：真基督徒与假基督徒（约1:47）；乐在敬拜的生活：第十二章、在当下敬拜活出未来-3",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180628.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/bc20180628/bc/bc180628.mp3",
-		"id": 10180628
-	},
-	{
 		"time": "20180629",
 		"title": "黑暗中的舞者：第七章、迟到十年的接纳；第八章、在黑暗中不断进步-1",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180629.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/bc20181004/bc/bc181004.mp3",
 		"id": 10181004
+	},
+	{
+		"time": "20181005",
+		"title": "彩虹花园：第三章、在雾的另一面-2；第四章、彩虹脚下-1",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181005.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/bc20181005/bc/bc181005.mp3",
+		"id": 10181005
 	}
 ]
