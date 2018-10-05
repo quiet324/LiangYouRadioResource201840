@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180630",
-		"title": "听众热线分享：浙江陈弟兄；一起来摒弃负能量，让我们给生活加点鸡精（主持：罗文辉、刘佳音）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ib/ib180630.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 16,
-		"artistName": "无限飞行号",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/ib20180630/ib/ib180630.mp3",
-		"id": 16180630
-	},
-	{
 		"time": "20180701",
 		"title": "新闻：巴布亚新几内亚妇女多被诬陷为女巫而被烧；广播剧：没人爱的女孩（24）（主持：罗文辉、刘佳音）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ib/ib180701.mp3",
@@ -1009,5 +998,16 @@
 		"artistName": "无限飞行号",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ib20181005/ib/ib181005.mp3",
 		"id": 16181005
+	},
+	{
+		"time": "20181006",
+		"title": "听众热线分享：湖北张姊妹；一起来摒弃负能量，让我们给生活加点鸡精（主持：罗文辉、刘佳音）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ib/ib181006.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 16,
+		"artistName": "无限飞行号",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ib20181006/ib/ib181006.mp3",
+		"id": 16181006
 	}
 ]
