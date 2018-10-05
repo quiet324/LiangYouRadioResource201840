@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180630",
-		"title": "从布道到培训：对长老的勉励（主持：卢文、周虹）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180630.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/ds20180630/ds/ds180630.mp3",
-		"id": 46180630
-	},
-	{
 		"time": "20180701",
 		"title": "良院讲台：牧者的心（徒20:25-38；讲员：卢文牧师）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180701.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ds20181005/ds/ds181005.mp3",
 		"id": 46181005
+	},
+	{
+		"time": "20181006",
+		"title": "从布道到培训：传道人的榜样（主持：卢文、周虹）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181006.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ds20181006/ds/ds181006.mp3",
+		"id": 46181006
 	}
 ]
