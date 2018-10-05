@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180630",
-		"title": "恒心坚忍作主工（尼2:11-20）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180630.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/mw20180630/mw/mw180630.mp3",
-		"id": 30180630
-	},
-	{
 		"time": "20180701",
 		"title": "战场的英雄（西2:13-19）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180701.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/mw20181005/mw/mw181005.mp3",
 		"id": 30181005
+	},
+	{
+		"time": "20181006",
+		"title": "“放下”才能得回（太10:34-39）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181006.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/mw20181006/mw/mw181006.mp3",
+		"id": 30181006
 	}
 ]
