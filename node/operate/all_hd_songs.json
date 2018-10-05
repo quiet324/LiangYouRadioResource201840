@@ -1582,5 +1582,16 @@
 		"artistName": "蓝天绿洲",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/hd20180930/hd/hd180930.mp3",
 		"id": 54180930
+	},
+	{
+		"time": "20181006",
+		"title": "Growing By Grace Part 2",
+		"downUrl": "http://txly2.net/ly/audio/2018/hd/hd181006.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 54,
+		"artistName": "蓝天绿洲",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/hd20181006/hd/hd181006.mp3",
+		"id": 54181006
 	}
 ]
