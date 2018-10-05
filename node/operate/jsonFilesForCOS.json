@@ -29287,5 +29287,8 @@
 	},
 	{
 		"fileName": "../operate/all_ir20181006_songs.json"
+	},
+	{
+		"fileName": "../operate/all_cc20181006_songs.json"
 	}
 ]
