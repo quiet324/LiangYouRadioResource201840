@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180630",
-		"title": "静夜亮光：不要把我的灵魂，和罪人一同除掉；不再孤独走一生：当马利亚来到耶稣的脚前、只要你说一句话",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180630.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201826/ee20180630/ee/ee180630.mp3",
-		"id": 29180630
-	},
-	{
 		"time": "20180701",
 		"title": "静夜亮光：如果他信心的祷告，能带来这么大的功效，为什么你不能呢？不再孤独走一生：喜乐的人生。",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180701.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ee20181005/ee/ee181005.mp3",
 		"id": 29181005
+	},
+	{
+		"time": "20181006",
+		"title": "智慧语录：为什么神会任凭祂忠心的仆人历经种种苦难呢？用智慧演绎人生：神是做新事的神",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181006.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201840/ee20181006/ee/ee181006.mp3",
+		"id": 29181006
 	}
 ]
